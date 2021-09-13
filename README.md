@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @angrypin
-- 👀 I’m interested in programming LOL
+- 👋 Hi, I’m [@angrypin](https://github.com/angrypin)
+- tertarik dengan bahasa pemrograman, oprek hp.
+- Sekolah di SMK Negeri 4 Bandar Lampung

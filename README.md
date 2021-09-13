@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @angrypin
+- 👀 I’m interested in programming LOL

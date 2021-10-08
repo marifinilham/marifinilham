@@ -2,7 +2,7 @@
 - 👋 Hi, I’m [@angrypin](https://github.com/angrypin)
 - tertarik dengan bahasa pemrograman, oprek hp.
 - Sekolah di SMK Negeri 4 Bandar Lampung
-- I like coffee!
+- Suka Kopi dan dia
 
 ## **📊 Stats**
 [![Angrypin stats](https://github-readme-stats.vercel.app/api?username=angrypin&count_private=true&show_icons=true&theme=nightowl)](https://github.com/angrypin)
